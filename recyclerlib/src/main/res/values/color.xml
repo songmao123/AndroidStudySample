@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 通用界面背景色值 -->
+    <color name="colorBackground">#F7F7F7</color>
+</resources>
