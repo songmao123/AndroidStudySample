@@ -8,6 +8,6 @@ Some android study samples, like some customize view etc.
 
 <br/>
 
-| Floating Title RecyclerViwe Preview:                              | gif Preview:                                                |
+| Floating Title RecyclerViwe Preview:                              | Gif Preview:                                                |
 | ----------------------------------------------------------------- |:-----------------------------------------------------------:|
 | <img src="screenshot/image03.png" width="270" height="480" />     | <img src="screenshot/gif01.gif" width="270" height="480" /> |
