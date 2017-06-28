@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CirclePagerIndicator">
+        <attr name="normalDotColor" format="color"></attr>
+        <attr name="focusedDotColor" format="color"></attr>
+        <attr name="normalDotRadius" format="dimension"></attr>
+        <attr name="focusedDotRadius" format="dimension"></attr>
+        <attr name="dotSpace" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>

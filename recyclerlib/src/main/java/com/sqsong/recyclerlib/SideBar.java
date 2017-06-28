@@ -191,4 +191,5 @@ public class SideBar extends View {
     public void setRecyclerView(RecyclerView recyclerView) {
         mRecyclerView = recyclerView;
     }
+
 }

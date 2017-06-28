@@ -24,7 +24,10 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.FloatingTitleRecyclerActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.CircleIndicatorActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

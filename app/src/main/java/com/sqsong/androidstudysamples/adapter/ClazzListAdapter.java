@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.sqsong.androidstudysamples.R;
+import com.sqsong.androidstudysamples.ui.CircleIndicatorActivity;
 import com.sqsong.androidstudysamples.ui.CircleTextActivity;
 import com.sqsong.androidstudysamples.ui.FloatingTitleRecyclerActivity;
 
@@ -20,7 +21,7 @@ import butterknife.ButterKnife;
 
 public class ClazzListAdapter extends RecyclerView.Adapter<ClazzListAdapter.ClazzListViewHolder> {
 
-    public static final Class[] sClazzs = {CircleTextActivity.class, FloatingTitleRecyclerActivity.class};
+    public static final Class[] sClazzs = {CircleTextActivity.class, FloatingTitleRecyclerActivity.class, CircleIndicatorActivity.class};
 
     private LayoutInflater mInflater;
     private ClazzListItemClickListener mListener;

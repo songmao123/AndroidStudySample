@@ -1,1 +1,1 @@
-include ':app', ':circletext', ':recyclerlib'
+include ':app', ':circletext', ':recyclerlib', ':indicator'
