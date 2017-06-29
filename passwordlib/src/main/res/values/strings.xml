@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">passwordlib</string>
+
+    <string name="text_forget_password">忘记密码?</string>
+    <string name="text_input_pay_password">输入支付密码</string>
+</resources>

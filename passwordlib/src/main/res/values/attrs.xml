@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PasswordEditView">
+        <attr name="normalBorderColor" format="color" />
+        <attr name="focusedBorderColor" format="color" />
+        <attr name="normalPassDotColor" format="color" />
+        <attr name="focusedPassDotColor" format="color" />
+        <attr name="borderRadius" format="dimension" />
+        <attr name="maxPassNum" format="integer" />
+        <attr name="passDotRadius" format="dimension" />
+        <attr name="focusAnim" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="PasswordPayLoadingView">
+        <attr name="progress_color" format="color" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="progress_radius" format="dimension" />
+        <attr name="load_success_color" format="color" />
+        <attr name="load_failure_color" format="color" />
+    </declare-styleable>
+
+</resources>

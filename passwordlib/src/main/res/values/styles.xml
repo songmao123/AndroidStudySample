@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="PasswordDialogAnimStyle">
+        <item name="android:windowEnterAnimation">@anim/anim_password_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/anim_password_dialog_exit</item>
+    </style>
+</resources>

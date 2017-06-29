@@ -11,6 +11,7 @@ import com.sqsong.androidstudysamples.R;
 import com.sqsong.androidstudysamples.ui.CircleIndicatorActivity;
 import com.sqsong.androidstudysamples.ui.CircleTextActivity;
 import com.sqsong.androidstudysamples.ui.FloatingTitleRecyclerActivity;
+import com.sqsong.androidstudysamples.ui.PasswordActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -21,7 +22,8 @@ import butterknife.ButterKnife;
 
 public class ClazzListAdapter extends RecyclerView.Adapter<ClazzListAdapter.ClazzListViewHolder> {
 
-    public static final Class[] sClazzs = {CircleTextActivity.class, FloatingTitleRecyclerActivity.class, CircleIndicatorActivity.class};
+    public static final Class[] sClazzs = {CircleTextActivity.class, FloatingTitleRecyclerActivity.class, CircleIndicatorActivity.class,
+            PasswordActivity.class};
 
     private LayoutInflater mInflater;
     private ClazzListItemClickListener mListener;

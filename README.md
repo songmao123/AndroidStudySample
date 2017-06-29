@@ -14,6 +14,12 @@ Some android study samples, like some customize view etc.
 
 <br/>
 
-| Circle Indicator Preview:                                         | Circle Indicator Preview(1):                                |
-| ----------------------------------------------------------------- |:-----------------------------------------------------------:|
+| Circle Indicator Preview:                                         | Circle Indicator Preview(1):                                  |
+| ----------------------------------------------------------------- |:-------------------------------------------------------------:|
 | <img src="screenshot/image04.png" width="270" height="480" />     | <img src="screenshot/image05.png" width="270" height="480" /> |
+
+<br/>
+
+| Password Preview:                                                 | Gif Preview:                                                  |
+| ----------------------------------------------------------------- |:-------------------------------------------------------------:|
+| <img src="screenshot/image06.png" width="270" height="480" />     | <img src="screenshot/gif02.gif" width="270" height="480" /> |

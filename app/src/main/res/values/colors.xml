@@ -7,4 +7,6 @@
     <color name="colorMusk">#77000000</color>
     <color name="colorBlueLight">#529BFA</color>
     <color name="colorLine">#E5E5E5</color>
+    <color name="colorGrey">#CCCCCC</color>
+    <color name="colorRed">#FF0000</color>
 </resources>
